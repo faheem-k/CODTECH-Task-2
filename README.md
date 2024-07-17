@@ -1,3 +1,10 @@
+Name: Faheem K  
+Company: CODTECH IT SOLUTIONS  
+ID: CT08DS5173  
+Domain: CYBER SECURITY & ETHICAL HACKING  
+Duration: JULY 15 to AUGEST 15  
+Mentor: Muzammil Ahmed  
+ 
 # CODTECH-Task-2
 # Simple Vulnerability Scanning Tool
 
